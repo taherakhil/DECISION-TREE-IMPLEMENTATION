@@ -68,5 +68,8 @@ Matplotlib
 
 Joblib
 
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/a3dd7c5e-85a1-495c-8a01-04753c9e160d)
+![Image](https://github.com/user-attachments/assets/1339fb8e-4c93-485a-a2e2-dd93daf54b4a)
 
 
